@@ -1,0 +1,8 @@
+{
+    sameer: {
+        name: "Sameer",
+        age: 25,
+        occupation: "Software Engineer",
+        hobbies: ["coding", "gaming", "reading"]
+    },
+}
